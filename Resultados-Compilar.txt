@@ -1,0 +1,3 @@
+﻿1>------ Operación Recompilar todo iniciada: proyecto: SYS_BLUE, configuración: Debug Any CPU ------
+1>  SYS_BLUE -> C:\Users\Marlon\documents\visual studio 2012\Projects\SYS_BLUE\SYS_BLUE\bin\SYS_BLUE.dll
+========== Recompilar todo: 1 correctos, 0 incorrectos, 0 omitidos ==========
